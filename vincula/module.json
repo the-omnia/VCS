@@ -1,0 +1,13 @@
+{
+	"general": {
+		"name": "vincula",
+		"version": "0.1.0",
+		"license": "OCSLv1",
+		"language": "python"
+	},
+	"dependencies": {
+		"general": {
+			"vpf-py": "@workspace"
+		}
+	}
+}

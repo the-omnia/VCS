@@ -1,0 +1,8 @@
+# ---> MacOS files
+.DS_Store
+
+# ---> Vincula files
+.local
+
+# ---> Python files
+*.pyc 

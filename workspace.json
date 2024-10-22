@@ -1,0 +1,12 @@
+{
+	"organization": {
+		"id": "omnia.ru",
+		"name": "Omnia Community"
+	},
+	"languages": {
+		"python": {
+			"name": "python",
+			"version": "3.7"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"general": {
+		"name": "vpf-py",
+		"mode": "binary",
+		"language": "python",
+		"version": "0.1.0"
+	},
+	"dependencies": {}
+}
